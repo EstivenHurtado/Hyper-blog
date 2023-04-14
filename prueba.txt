@@ -1,3 +1,1 @@
 este es un documento de prueba para aprender a usar git
-primer cambio de nuevo
-segundo cambio de nuevo
